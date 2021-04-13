@@ -18,10 +18,10 @@ The work is made by:
 	teocap on GithHub
 	https://github.com/teocap
 
-- Edoardo Gabrielli
+- Edoardo Gabrielli:
 	edogab33 on GitHub
 	https://github.com/edogab33
 
-- Luca Palluzzi
+- Luca Palluzzi:
 	randomlulli on GitHub
 	https://github.com/randomlulli
