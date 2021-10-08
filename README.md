@@ -5,7 +5,7 @@ In this repo there are 3 files:
 
 - TIRESIA_agglomerative.ipynb: contains the code about the Agglomerative Clustering approach.
 
-- anon_booking_history.csv: it's the dataset we collected and used. The real students' codes have been hidden.
+- anon_booking_history.csv: it's the dataset we collected and used. The real students' codes have been hidden to preserve their privacy.
 
 The notebook with all the code about our first attempt can be opened in Jupyter or Google Colab.
 
